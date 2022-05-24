@@ -1,2 +1,5 @@
-Download the original MNIST dataset from-
+The dataset used is the original MNIST dataset, which is loaded onto the notebook with the help of the 'fetch_openml' method.
+No additional downloads required.
+
+However, it can also be downloaded from-
 https://www.openml.org/search?type=data&sort=runs&id=554&status=active
