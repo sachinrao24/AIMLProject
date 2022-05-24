@@ -5,4 +5,5 @@ This project performs Handwritten Digit Recognition using four different algorit
 3. K-Nearest Neighbours
 4. Decision Tree Classifier
 
-For each algorithm, a confusion matrix is also plotted as a heatmap.
+For each algorithm, a sample data point is visualized along with it's actual and predicted values. 
+A confusion matrix is also plotted as a heatmap.
