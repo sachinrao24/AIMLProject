@@ -9,6 +9,6 @@
 
    For each algorithm, a sample data point is visualized along with it's actual and predicted values. 
    
-### 2. The second approach employs Neural Networks using TensorFlow and can be tested on custom images using the OpenCV module.
+### 2. The second approach employs a Convolutional Neural Network using TensorFlow and can be tested on custom images using the OpenCV module.
 
 The MNIST dataset has been used for both techniques and a sample image has also been provided.
